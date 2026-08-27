@@ -21,7 +21,7 @@ The Global Search Modal is a powerful and customizable global search plugin for 
 ![image](https://github.com/user-attachments/assets/41a6b305-a38c-4883-a7b5-3ed264da888d)
 
 ## Full Docs
-refer to it's  [official documentation website ](https://convergephp.com/plugins/gsm/docs/overview)
+refer to it's  [official documentation website ](https://converge.charrafi.com/plugins/gsm/docs/overview)
 
 documentations markdown: https://github.com/CharrafiMed/gsm-docs
 ## Requirement
